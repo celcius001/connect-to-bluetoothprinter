@@ -1,11 +1,11 @@
 ## Sample Project For Blue Thermal Printer
 
-A sample project especifically for printing into terminal printer
+A sample project especifically for printing into thermal printer
 
 ## Dependencies
 
-blue_thermal_printer: ^1.2.3
-permission_handler: ^10.2.0
+* blue_thermal_printer: ^1.2.3
+* permission_handler: ^10.2.0
 
 ## Installation
 
